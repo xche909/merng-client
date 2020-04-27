@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.page-title {
+  display: block !important;
+  text-align: center;
+  font-size: 2rem;
+  margin-top: 10px;
+}
+
+.form-container {
+  width: 400;
+  margin: auto;
+}
